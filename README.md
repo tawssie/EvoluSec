@@ -42,6 +42,11 @@ Further enzymatic functions of TIR domains have since been experimentally valida
 > *Science*, 365(6455), 793–799.  
 > https://doi.org/10.1126/science.aax1911
 
+## Dataset
+
+The full dataset associated with the manuscript is publicly available and can be accessed at:  
+[Manuscript Dataset, 140MB](https://drive.google.com/file/d/17f9NTJEef_n6YWleh1jp7Aul5KKja8QP/)
+
 
 ## Contributing
 
