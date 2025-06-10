@@ -5,11 +5,17 @@ This repository contains the software associated with the publication:
 
 ## Overview
 
-This study pioneered the use of 3D protein structure variation to uncover evolutionary relationships, establishing—for the first time—a functional link between Toll/interleukin-1 receptor (TIR) domains and enzymatic activity
+This study pioneered the use of 3D protein structural evolutinoary model to uncover evolutionary relationships, establishing—for the first time—a functional link between Toll/interleukin-1 receptor (TIR) domains and enzymatic activity
+
+![EvoluSec Diagram](https://github.com/tawssie/EvoluSec/blob/main/image/evolusec.png?raw=true)
+
 
 The **secondary structure state (DSSP)** evolutionary model was first introduced at the 2017 ISMB conference in the poster:  
 **“Inferring protein phylogeny by modelling the evolution of secondary structure”**
-The enzymatic activity function was subsequently validated and published in *Science*.
+The enzymatic activity function was subsequently validated and published in *"NAD+ cleavage activity by animal and plant TIR domains in cell death pathways, Science"*.
+
+
+
 
 ## Features
 
@@ -45,7 +51,7 @@ Further enzymatic functions of TIR domains have since been experimentally valida
 ## Dataset
 
 The full dataset associated with the manuscript is publicly available and can be accessed at:  
-[Manuscript Dataset, 140MB](https://drive.google.com/file/d/17f9NTJEef_n6YWleh1jp7Aul5KKja8QP/)
+[Manuscript Dataset](https://drive.google.com/file/d/17f9NTJEef_n6YWleh1jp7Aul5KKja8QP/) (140MB)
 
 
 ## Contributing
