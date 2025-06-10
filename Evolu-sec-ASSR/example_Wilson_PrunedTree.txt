@@ -1,0 +1,1 @@
+((((ABL1-H.sapien:0.026151,ABL2-H.sapien:0.043111)Branch26:0.50891,(((HCK-H.sapien:0.10457,LYN-H.sapien:0.15184)Branch63:0.033893,LCK-H.sapien:0.24399)Branch64:0.20537,SRC-H.sapien:0.18256)Branch65:0.51197)Branch73:0.088601,((BTK-H.sapien:0.20497,BMX-H.sapien:0.26684)Branch11:0.081255,ITK-H.sapien:0.4235)Branch17:0.70888)Branch74:0.0443,HER1:1.7546)Branch75;
