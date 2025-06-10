@@ -1,7 +1,7 @@
 # EvoluSec: Evolutionary Analysis of Protein Secondary Structures
 
 This repository contains the software associated with the publication:  
-**Evolutionary model of protein secondary structure capable of revealing new biological relationships (2020)**
+**Evolutionary model of protein secondary structure capable of revealing new biological relationships (publicly released in February 2019 and formally published in May 2020)**
 
 ## Overview
 
