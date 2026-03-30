@@ -59,10 +59,15 @@ The full dataset associated with the manuscript is publicly available and can be
 Feel free to submit pull requests for improvements.
 
 ## History ##
-
+### ISMB 2017 ###
 This work established a **protein evolutionary transition probability model** centred on DSSP secondary-structure states, using carefully curated **high-resolution protein crystal structures** for model construction and validation. The methodological framework followed the core logic of classical evolutionary models such as Dayhoff’s PAM and JTT. **Because DSSP states are strongly related to φ/ψ torsion-angle space, the model captures evolutionary transition patterns between secondary-structure states while indirectly reflecting associated changes in local backbone conformation**. Related results were presented as a poster at ISMB 2017 (3DSIG).
 
 <img src="https://github.com/tawssie/EvoluSec/blob/main/image/ISMB_2017_poster.JPG?raw=true" alt="ISMB_poster" width="50%">
+
+### ISMB 2019 ###
+Because the number of available high-resolution crystal structures was insufficient to comprehensively explore all joint DSSP–amino acid state transitions, I extended the analysis to a combined structural–sequence representation. At ISMB 2019, I presented a **60-state evolutionary substitution matrix for protein alignment**, defined by three predicted secondary-structure states combined with 20 amino acid states. This work was later incorporated into my PhD thesis, where I further showed that a joint structural-property × amino-acid index can improve protein alignment performance by capturing coupled evolutionary patterns that are not represented by sequence information alone.
+
+<img src="https://github.com/tawssie/EvoluSec/blob/main/image/ISMB_2019_poster.jpg?raw=true" alt="ISMB_poster" width="50%">
 
 ## License
 
