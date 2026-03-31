@@ -69,7 +69,4 @@ Because the number of available high-resolution crystal structures was insuffici
 
 <img src="https://github.com/tawssie/EvoluSec/blob/main/image/ISMB_2019_poster.jpg?raw=true" alt="ISMB_poster" width="50%">
 
-## License
-
-This software is licensed under the [MIT License](https://github.com/tawssie/EvoluSec/blob/main/LICENSE).
 
