@@ -64,7 +64,7 @@ This work established a **protein evolutionary transition probability model** ce
 
 <img src="https://github.com/tawssie/EvoluSec/blob/main/image/ISMB_2017_poster.JPG?raw=true" alt="ISMB_poster" width="50%">
 
-### ISMB 2019 ###
+### ISMB 2019, Phylogenetic analysis in the predicted secondary structure space ###
 Because the number of available high-resolution crystal structures was insufficient to comprehensively explore all joint DSSP–amino acid state transitions, I extended the analysis to a combined structural–sequence representation. At ISMB 2019, I presented a **60-state evolutionary substitution matrix for protein alignment**, defined by three predicted secondary-structure states combined with 20 amino acid states. This work was later incorporated into my PhD thesis, where I further showed that a joint structural-property × amino-acid index can improve protein alignment performance by capturing coupled evolutionary patterns that are not represented by sequence information alone.
 
 <img src="https://github.com/tawssie/EvoluSec/blob/main/image/ISMB_2019_poster.jpg?raw=true" alt="ISMB_poster" width="50%">
