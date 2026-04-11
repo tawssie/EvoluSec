@@ -59,7 +59,7 @@ The full dataset associated with the manuscript is publicly available and can be
 Feel free to submit pull requests for improvements.
 
 ## History ##
-### ISMB 2017 ###
+### ISMB 2017, Modelling the evolution of protein secondary structure ###
 This work established a **protein evolutionary transition probability model** centred on DSSP secondary-structure states, using carefully curated **high-resolution protein crystal structures** for model construction and validation. The methodological framework followed the core logic of classical evolutionary models such as Dayhoff’s PAM and JTT. **Because DSSP states are strongly related to φ/ψ torsion-angle space, the model captures evolutionary transition patterns between secondary-structure states while indirectly reflecting associated changes in local backbone conformation**. Related results were presented as a poster at ISMB 2017 (3DSIG).
 
 <img src="https://github.com/tawssie/EvoluSec/blob/main/image/ISMB_2017_poster.JPG?raw=true" alt="ISMB_poster" width="50%">
