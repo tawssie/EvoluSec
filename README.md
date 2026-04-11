@@ -70,3 +70,8 @@ Because the number of available high-resolution crystal structures was insuffici
 <img src="https://github.com/tawssie/EvoluSec/blob/main/image/ISMB_2019_poster.jpg?raw=true" alt="ISMB_poster" width="50%">
 
 
+**60-state evolutionary substitution matrix alignment and its early NMR-supported SARM1/ARM binding-site context**
+
+My PhD thesis publicly documented an earlier analytical context related to the *Drosophila* SARM1/ARM binding site, integrating the 60-state alignment framework with NMR-related observations.
+
+
