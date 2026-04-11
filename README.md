@@ -5,7 +5,7 @@ This repository contains the original software (since 2017) associated with the 
 
 ## Overview
 
-This study pioneered the use of 3D protein structural (variations) evolutinoary model to uncover evolutionary relationships, establishing—for the first time—a functional link between Toll/interleukin-1 receptor (TIR) domains and enzymatic activity
+This study introduced the first 3D structural evolutionary model that treats DSSP-defined protein secondary-structure states as evolving traits, building a framework for analysing 3D structural variation and uncovering biological relationships. Crucially, it provided an early computational basis for subsequent findings, revealing—for the first time—a functional link between plant Toll/interleukin-1 receptor (TIR) domains and enzymatic activity, which was later experimentally and structurally validated.
 
 ![EvoluSec Diagram](https://github.com/tawssie/EvoluSec/blob/main/image/evolusec.png?raw=true)
 
