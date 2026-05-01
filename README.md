@@ -1,4 +1,4 @@
-# EvoluSec: Evolutionary Analysis of Protein Secondary Structures
+# EvoluSec: Evolutionary Analysis of Protein Secondary Structures (DSSP)
 
 This repository contains the original software (since 2017) associated with the publication:  
 **Evolutionary model of protein secondary structure capable of revealing new biological relationships (publicly introduced in ISMB 2017, publicly released in February 2019 and formally published in May 2020)**
