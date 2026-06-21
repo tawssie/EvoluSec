@@ -3,6 +3,8 @@
 This repository contains the original software (since 2017) associated with the publication:  
 **Evolutionary model of protein secondary structure capable of revealing new biological relationships (publicly introduced in ISMB 2017, publicly released in February 2019 and formally published in May 2020)**
 
+Jhih-Siang Lai ORCID https://orcid.org/0000-0001-5677-5890
+
 ## Overview
 
 This study introduced the first 3D structural evolutionary model that treats DSSP-defined protein secondary-structure states as evolving traits, building a framework for analysing 3D structural variation and uncovering biological relationships. Crucially, it provided an early computational basis for subsequent findings, revealing—for the first time—a functional link between plant Toll/interleukin-1 receptor (TIR) domains and enzymatic activity, which was later experimentally and structurally validated.
