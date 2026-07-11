@@ -5,6 +5,8 @@ This repository contains the original software (since 2017) associated with the 
 
 Jhih-Siang Lai ORCID https://orcid.org/0000-0001-5677-5890
 
+The first submission was made in 2017 under manuscript ID MBE-17-0650 (Title: Modelling the evolution of protein secondary structure), with the full source code included.
+
 ## Overview
 
 This study introduced the first 3D structural evolutionary model that treats DSSP-defined protein secondary-structure states as evolving traits, building a framework for analysing 3D structural variation and uncovering biological relationships. Crucially, it provided an early computational basis for subsequent findings, revealing—for the first time—a functional link between plant Toll/interleukin-1 receptor (TIR) domains and enzymatic activity, which was later experimentally and structurally validated.
