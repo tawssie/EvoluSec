@@ -12,6 +12,7 @@ The published author list includes both **Jhih-Siang Lai** and **Gabriel Foley**
 ## Correct attribution
 
 Jhih-Siang Lai's University of Queensland doctoral thesis includes this Science publication and explicitly records his contribution to the **"Bioinformatic analysis of TIR domains"** section.
+Jhih-Siang Lai's University of Queensland doctoral thesis, Protein structural phylogeny, a missing chapter in molecular evolutionary biology, includes this Science publication and explicitly records his contribution to the "Bioinformatic analysis of TIR domains" section.
 
 The thesis records the following contributions by Jhih-Siang Lai:
 
