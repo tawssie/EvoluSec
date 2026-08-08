@@ -82,5 +82,6 @@ The precise correction is:
 - Science article: https://doi.org/10.1126/science.aax1911
 - PubMed record: https://pubmed.ncbi.nlm.nih.gov/31439792/
 - Jhih-Siang Lai ORCID: https://orcid.org/0000-0001-5677-5890
+- Jhih-Siang Lai UQ doctoral thesis: https://espace.library.uq.edu.au/view/UQ:1d0a799
 - UQ Higher Degree by Research Examination Guideline: https://policies.uq.edu.au/document/view-current.php?id=452
 - UQ Higher Degree by Research Examination Policy: https://policies.uq.edu.au/document/view-current.php?id=169
