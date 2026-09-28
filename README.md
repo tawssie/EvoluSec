@@ -63,8 +63,14 @@ The full dataset associated with the manuscript is publicly available and can be
 Feel free to submit pull requests for improvements.
 
 ## History ##
+
+
 ### ISMB 2017, Modelling the evolution of protein secondary structure ###
 Jhih-Siang Lai, Bostjan Kobe and Mikael Boden
+
+The poster was accepted under the title "Inferring protein phylogeny by modelling the evolution of secondary structure (A-074)" and presented at the conference under the revised title "Modelling the evolution of protein secondary structure".
+
+https://transition.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=A
 
 This work established a **protein evolutionary transition probability model** centred on DSSP secondary-structure states, using carefully curated **high-resolution protein crystal structures** for model construction and validation. The methodological framework followed the core logic of classical evolutionary models such as Dayhoff’s PAM and JTT. **Because DSSP states are strongly related to φ/ψ torsion-angle space, the model captures evolutionary transition patterns between secondary-structure states while indirectly reflecting associated changes in local backbone conformation**. Related results were presented as a poster at ISMB 2017 (3DSIG).
 
