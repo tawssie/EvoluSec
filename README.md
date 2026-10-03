@@ -82,6 +82,10 @@ Jhih-Siang Lai, Burkhard Rost, Bostjan Kobe and Mikael Boden
 
 Because the number of available high-resolution crystal structures was insufficient to comprehensively explore all joint DSSP–amino acid state transitions, I extended the analysis to a combined structural–sequence representation. At ISMB 2019, I presented a **60-state evolutionary substitution matrix for protein alignment**, defined by three predicted secondary-structure states combined with 20 amino acid states. This work was later incorporated into my PhD thesis, where I further showed that a joint structural-property × amino-acid index can improve protein alignment performance by capturing coupled evolutionary patterns that are not represented by sequence information alone.
 
+https://transition.iscb.org/cms_addon/conferences/ismbeccb2019/posters.php?track=EvoCompGen%20COSI&session=A
+
+K-02: Using the evolutionary model of the secondary structure prediction space to align the amino acid sequences (COSI: EvoCompGen COSI)
+
 <img src="https://github.com/tawssie/EvoluSec/blob/main/image/ISMB_2019_poster.jpg?raw=true" alt="ISMB_poster" width="50%">
 
 
@@ -89,4 +93,6 @@ Because the number of available high-resolution crystal structures was insuffici
 
 My PhD thesis publicly documented an earlier analytical context related to the *Drosophila* SARM1/ARM binding site, integrating the 60-state alignment framework with NMR-related observations.
 
+Gu, Weixi (2020). Structural basis of SARM1 regulation. PhD Thesis, School of Chemistry & Molecular Biosciences, The University of Queensland.https://doi.org/10.14264/2fa70d0
 
+Figley, Matthew D., et al. "SARM1 is a metabolic sensor activated by an increased NMN/NAD+ ratio to trigger axon degeneration." Neuron 109.7 (2021): 1118-1136.
