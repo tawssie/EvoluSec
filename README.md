@@ -91,5 +91,5 @@ K-02: Using the evolutionary model of the secondary structure prediction space t
 
 **60-state evolutionary substitution matrix alignment and its early NMR-supported SARM1/ARM binding-site context**
 
-My (Jhih-Siang Lai) PhD thesis publicly documented an earlier analytical framework for identifying a potential *Drosophila* SARM1 ARM-interacting site, including candidate regions around the SAM-TIR linker, integrating the 60-state alignment framework with complementary structural and biophysical observations.
+My PhD thesis publicly documented an earlier analytical framework for identifying a potential *Drosophila* SARM1 ARM-interacting site, including candidate regions around the SAM-TIR linker, integrating the 60-state alignment framework with complementary structural and biophysical observations.
 
