@@ -91,10 +91,5 @@ K-02: Using the evolutionary model of the secondary structure prediction space t
 
 **60-state evolutionary substitution matrix alignment and its early NMR-supported SARM1/ARM binding-site context**
 
-My (Jhih-Siang Lai) PhD thesis publicly documented an earlier analytical discovery context related to the *Drosophila* SARM1/ARM binding site, with potential SAM-TIR linker interacting regions, integrating the 60-state alignment framework with NMR-related observations.
+My (Jhih-Siang Lai) PhD thesis publicly documented an earlier analytical framework for identifying a potential *Drosophila* SARM1 ARM-interacting site, including candidate regions around the SAM-TIR linker, integrating the 60-state alignment framework with complementary structural and biophysical observations.
 
-Gu, Weixi. Structural basis of SARM1 regulation. PhD Thesis, School of Chemistry & Molecular Biosciences, The University of Queensland. ( https://doi.org/10.14264/2fa70d0 )
-
-Figley, Matthew D. and Gu, Weixi, et al. "SARM1 is a metabolic sensor activated by an increased NMN/NAD+ ratio to trigger axon degeneration." Neuron 109.7 (2021): 1118-1136.
-
-(Figley, Matthew D. and Gu, Weixi contributed equally.)
